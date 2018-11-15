@@ -21,10 +21,10 @@ Now start using the mail server!
 
 # Commands
 
-`make <client_name>` - Registers new client and make mail box in the server.
-`get_client_list` - Get list of registered clients.
-`send <receiver_name>` - Start composing a mail to another registered user. Follow the instructions given in comman line.
-`get_mailbox <client_name>` - Get mail box information of a registered user
-`read <client_name mail_id>` - Read a mail specified by mail ID
-`delete <client_name mail_id>` - Delete a mail specified by mail ID
+`make <client_name>` - Registers new client and make mail box in the server   
+`get_client_list` - Get list of registered clients   
+`send <receiver_name>` - Start composing a mail to another registered user. Follow the instructions given in comman line.   
+`get_mailbox <client_name>` - Get mail box information of a registered user   
+`read <client_name mail_id>` - Read a mail specified by mail ID   
+`delete <client_name mail_id>` - Delete a mail specified by mail ID   
 `quit` - Exit
