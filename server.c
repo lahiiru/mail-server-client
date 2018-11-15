@@ -1,3 +1,6 @@
+/*
+    Source: https://github.com/lahiiru/mail-server-client
+*/
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
