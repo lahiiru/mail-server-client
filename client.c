@@ -1,5 +1,5 @@
 /*
-    C ECHO client example using sockets
+    Source: https://github.com/lahiiru/mail-server-client
 */
 #include<stdio.h> //printf
 #include<string.h> //strcpy
